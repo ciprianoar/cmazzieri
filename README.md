@@ -1,6 +1,6 @@
 - 👋 Hola, soy @cmazzieri.
 - 👀 Estoy interesado principalmente en la tecnología de "cadena de bloques" y en "generadores de sitios estáticos basados en JS".
-- 🌱 Tengo nivel principiante a medio en ambos temas de interés.
+- 🌱 Tengo un nivel medio de conocimiento en ambos temas de interés.
 - Saludos.
 
 <!---
