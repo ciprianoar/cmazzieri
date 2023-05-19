@@ -1,4 +1,4 @@
-- 👋 Hola, soy @cmazzieri.
+- 👋 Hola, soy @cipriano-ar.
 - 👀 Estoy interesado principalmente en la tecnología de "cadena de bloques" y en "generadores de sitios estáticos basados en JS".
 - 🌱 Tengo un nivel medio de conocimiento en ambos temas de interés.
 - Saludos.
